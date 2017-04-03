@@ -1,0 +1,27 @@
+PLANET DETAILS
+__________________
+main color
+size
+lowest elevation
+highest elevation
+main elements
+moon amount
+revolution time
+orbit time
+
+
+PLANET ENVIRONMENT
+__________________
+lowest temperature
+highest temperature
+radiation amount
+is habitable (toggle planet life)
+
+
+PLANET LIFE
+__________________
+has water
+
+has flora (only if habitable)
+has fauna (only if has flora)
+ic population (intelligent creature population if any)
